@@ -1,3 +1,3 @@
-module arp242.net/border
+module zgo.at/border
 
 go 1.13

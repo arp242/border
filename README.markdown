@@ -4,7 +4,7 @@ When posting screenshots it's often useful to add a little border around the
 edges so it's easier to see where the screenshot ends. This tool does exactly
 that.
 
-Install with `go get arp242.net/border`, which will put the binary in
+Install with `go get zgo.at/border`, which will put the binary in
 `~/go/bin/border`.
 
 Use `-border` to control the border width (default: 2) and `-color` to control
